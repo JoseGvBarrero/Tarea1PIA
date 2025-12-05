@@ -1,0 +1,8 @@
+Escribe una función que reciba por parámetro una lista de palabras y la ruta a
+un fichero de texto y devuelva un diccionario que muestre cuantas veces
+aparecen las distintas palabras de la lista en el fichero de texto. Haz un pequeño
+programa que la ponga a prueba.
+Requisitos:
+1. Eliminar signos de puntuación y convertir todo a minúsculas.
+2. Usar un diccionario donde la clave sea la palabra y el valor su frecuencia.
+3. Mostrar las palabras y sus frecuencias de forma ordenada por la palabra.
