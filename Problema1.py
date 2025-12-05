@@ -15,7 +15,7 @@ def listaRecibida(listaNumeros):
 
 lista = [1, 25, -5, 2, 3, -3 , 2, 3, 8, 12, 11]
 resultado = listaRecibida(lista)
-#Imprimimos ambos resultados para ver la diferencia
+#Imprimimos ambos resultados para ver la diferencia entre ellos
 print("Lista original: ", lista)
 print("Lista actualizada: ", resultado)
 
