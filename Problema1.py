@@ -4,7 +4,7 @@ def listaRecibida(listaNumeros):
   for num in listaNumeros:
     #Si es negativo no lo incluimos, si es positivo agregamos
     if num > 0:
-      listaSinNegativos.add(num)
+      listaSinNegativos.append(num)
 
   #Quitamos duplicados con Set
   listaSinDuplicados = set(listaSinNegativos)
@@ -17,6 +17,7 @@ lista = [1, 25, -5, 2, 3, -3 , 2, 3, 8, 12, 11]
 resultado = listaRecibida(lista)
 print("Lista original: ", lista)
 print("Lista actualizada: ", resultado)
+
 
 
   
