@@ -1,5 +1,5 @@
 def listaRecibida(listaNumeros):
-  listaSinNegativos[]
+  listaSinNegativos = []
   #Recorremos los numeros de la lista
   for num in listaNumeros:
     #Si es negativo no lo incluimos, si es positivo agregamos
